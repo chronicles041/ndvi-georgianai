@@ -116,14 +116,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions, feel free to reach out to the contributors:
 
-- **Suman Malla**: [LinkedIn](https://www.linkedin.com/in/suman-malla) | [GitHub](https://github.com/sumanmalla)
-- **Bishesh Upadhyaya**: [LinkedIn](https://www.linkedin.com/in/bishesh-upadhyaya) | [GitHub](https://github.com/bisheshupadhyaya)
-- **Sarthak Pokharel**: [LinkedIn](https://www.linkedin.com/in/sarthak-pokharel) | [GitHub](https://github.com/sarthakpokharel)
+- **Suman Malla**: [GitHub](https://github.com/chronicles041)
+- **Bishesh Upadhyaya**
+- **Sarthak Pokharel**
 ```
-
-### Key Changes:
-- Added the **Agricultural Challenges** section and project aims at the top, detailing how this project helps address farming challenges and empowers farmers.
-- The **NDVI**, **AI & Data**, **Farmer Benefits**, and **Scalable Solution** sections explain the focus of the project and its broader impact on agriculture.
-- The rest of the README remains the same but now includes the updated project overview. 
-
-This should now provide a complete description of the project along with setup instructions and other necessary details!
