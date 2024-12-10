@@ -1,6 +1,5 @@
 Here's the updated README file with the mentioned details at the top:
 
-```markdown
 # Enhancing Agricultural Productivity with AI
 
 ## Agricultural Challenges
@@ -62,8 +61,8 @@ To run this app locally, ensure that you have the following tools installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/plant-disease-weather-app.git
-   cd plant-disease-weather-app
+   https://github.com/chronicles041/ndvi-georgianai.git
+   cd ndvi-gergianai
    ```
 
 2. **Install dependencies**:
@@ -80,7 +79,7 @@ To run this app locally, ensure that you have the following tools installed:
 
 4. **Start the development server**:
    ```bash
-   npm start
+   npm run dev
    ```
    The app should be accessible at `http://localhost:3000`.
 
